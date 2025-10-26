@@ -1,0 +1,20 @@
+# Anonimização de Dados - LGPD
+# Requisitos para execução do notebook Anonimizacao_Dados_LGPD.ipynb
+
+# Core Data Science
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+
+# Anonimização de Dados
+anonymization-library>=1.0.0
+text-anonymizer>=1.0.0
+
+# Jupyter (opcional, mas recomendado)
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Instalação rápida:
+# pip install -r requirements.txt
+
